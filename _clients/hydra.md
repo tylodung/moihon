@@ -1,13 +1,17 @@
-# Urban
+---
+name: Hydra Template
+subtitle: Product marketing template for Jekyll
+external_url: https://github.com/CloudCannon/hydra-jekyll-template
+image_path: /images/clients/hydra.png
+---
 
-Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
-Increase the web presence of your agency with this configurable theme.
+Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
+Increase the web presence of your brand with this configurable theme.
 
-![Urban template screenshot](images/_screenshot.png)
+Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
-Urban was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
 ## Features
 
@@ -32,7 +36,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Develop
 
-Urban was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -48,7 +52,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Urban is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 
@@ -59,7 +63,7 @@ Urban is already optimised for adding, updating and removing pages, staff, advic
 
 ### Contact Form
 
-* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 * Sends email to the address listed in company details.
 
 ### Staff
@@ -70,9 +74,9 @@ Urban is already optimised for adding, updating and removing pages, staff, advic
 ### Footer
 
 * Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
-
-### Company details
-
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
